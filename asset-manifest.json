@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/qa-automation-engineer-ui-course/static/js/main.4c00ab74.js",
+    "main.js": "/qa-automation-engineer-ui-course/static/js/main.91fe8eda.js",
     "static/js/656.39cb2d1d.chunk.js": "/qa-automation-engineer-ui-course/static/js/656.39cb2d1d.chunk.js",
     "static/js/43.06344959.chunk.js": "/qa-automation-engineer-ui-course/static/js/43.06344959.chunk.js",
     "static/js/834.473dc499.chunk.js": "/qa-automation-engineer-ui-course/static/js/834.473dc499.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/15.a93772cc.chunk.js": "/qa-automation-engineer-ui-course/static/js/15.a93772cc.chunk.js",
     "static/js/716.ae8e7a40.chunk.js": "/qa-automation-engineer-ui-course/static/js/716.ae8e7a40.chunk.js",
     "index.html": "/qa-automation-engineer-ui-course/index.html",
-    "main.4c00ab74.js.map": "/qa-automation-engineer-ui-course/static/js/main.4c00ab74.js.map",
+    "main.91fe8eda.js.map": "/qa-automation-engineer-ui-course/static/js/main.91fe8eda.js.map",
     "656.39cb2d1d.chunk.js.map": "/qa-automation-engineer-ui-course/static/js/656.39cb2d1d.chunk.js.map",
     "43.06344959.chunk.js.map": "/qa-automation-engineer-ui-course/static/js/43.06344959.chunk.js.map",
     "834.473dc499.chunk.js.map": "/qa-automation-engineer-ui-course/static/js/834.473dc499.chunk.js.map",
@@ -29,6 +29,6 @@
     "716.ae8e7a40.chunk.js.map": "/qa-automation-engineer-ui-course/static/js/716.ae8e7a40.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c00ab74.js"
+    "static/js/main.91fe8eda.js"
   ]
 }
